@@ -1,44 +1,49 @@
-# 🎬 Movie Search App
-A simple movie search application that fetches and displays movie information using a movie API.
+🎬 Movie Search App
+A simple Movie Search App built using HTML, CSS, and JavaScript. The application fetches real-time movie information using the OMDb API and displays details such as movie poster, title, release date, IMDb ID, and rating.
 
-## Features
-* Search movies by name
-* Display movie poster
-* Show movie title
-* View release date
-* Display IMDb ID
-* Show IMDb rating
-* Clean and responsive UI
-* Fast API-based movie search
+Live Demo
+https://movie-app-five-phi-83.vercel.app/
 
-## Technologies Used
-* HTML
-* CSS
-* JavaScript
-* OMDb API
+Features
+Search movies by title
+Fetch real-time movie data using API
+Display movie poster
+Show movie title
+View release date
+Display IMDb ID
+Show IMDb rating
+Clean and responsive user interface
+Fast movie search experience
 
-## How It Works
-1. Enter a movie name in the search box.
-2. Click the Search button.
-3. The app fetches movie data from the API.
-4. Movie details are displayed instantly.
 
-## Learning Outcomes
-* API Integration
-* Fetch API & Async JavaScript
-* DOM Manipulation
-* Event Handling
-* Responsive Web Design
+Technologies Used
+HTML
+CSS
+JavaScript
+OMDb API
 
-## Preview
-Search for your favorite movies and instantly view their details including poster, release date, IMDb ID, and rating.
 
-## Project Structure
-```text
-Movie-Search-App/
+How It Works
+Enter a movie name in the search box.
+Click the Search button.
+The app fetches movie information from the API.
+Movie details are displayed instantly.
+
+
+Learning Outcomes
+API Integration
+Fetch API & Async JavaScript
+DOM Manipulation
+Event Handling
+Responsive Web Design
+Preview
+
+Search for your favorite movies and instantly view movie details including poster, release date, IMDb ID, and IMDb rating.
+
+Project Structure
+Movie-App/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
